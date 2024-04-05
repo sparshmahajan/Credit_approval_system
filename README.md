@@ -22,7 +22,7 @@ DB_DIALECT= DATABASE_DIALECT
 Clone the project
 
 ```bash
-git clone https://github.com/sparshmahajan/credit-score-calculator.git
+git clone https://github.com/sparshmahajan/Credit_approval_system.git
 ```
 
 Go to the project directory
